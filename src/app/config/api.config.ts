@@ -1,7 +1,7 @@
 export const API_CONFIG = {
   baseUrl: {
     mock: 'http://localhost:3000',
-    prod: 'https://helpr-api-soulcode.azurewebsites.net',
+    prod: 'https://api-helpr-bianca.herokuapp.com/',
   },
 };
 /*
